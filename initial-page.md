@@ -16,7 +16,9 @@ description: 寫出容易了解的函式
 
 保持以下原則：單一職責原則、開放閉合原則
 
-多形的情況，可以用工廠模式 \(Factory pattern\) 來處理
+### 多形的情況
+
+用工廠模式 \(Factory pattern\) 來處理
 
 ```php
 <?php
