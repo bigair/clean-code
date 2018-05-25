@@ -1,5 +1,5 @@
 # Table of contents
 
-* Initial page
+* [Introduction](README.md)
+* [函式](initial-page.md)
 
-Can
